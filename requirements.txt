@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+jieba
+flask
+streamlit
+joblib
+requests
+tqdm
